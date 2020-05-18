@@ -2,8 +2,8 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Gerentes from '../views/Gerentes.vue'
 import Home from '../views/Home.vue'
-import NovoUsuario from '../views/NovoUsuario'
-import Login from '../views/Login'
+import NovoUsuario from '../views/NovoUsuario.vue'
+import Login from '../views/Login.vue'
 
 Vue.use(VueRouter)
 
